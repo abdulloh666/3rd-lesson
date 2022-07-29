@@ -1,0 +1,43 @@
+body{
+    background-color: green;
+    text-align: center;
+}
+ul{
+    list-style: none;
+}
+.heading{
+    color: grey;
+    font-family:sans-serif;
+    text-transform: uppercase;
+}
+
+.text-one{
+    text-transform: uppercase;
+
+}
+.heading_2{
+    color:yellow;
+    font-family:sans-serif;
+    text-transform: uppercase;
+}
+
+.heading_3{
+    color:red;
+    font-family:sans-serif;
+    text-transform: uppercase;
+} 
+
+
+.price-1{
+color: gray;
+font-size: 20px;
+}
+.price-2{
+color: yellow;
+font-size: 20px;
+}
+.price-3{
+color: red;
+font-size: 20px;
+}
+
